@@ -1,4 +1,4 @@
-# Hi, I'm Ashhab 👋
+# Hi, I'm Ashhab Quddusi👋
 
 🎓 B.Tech Computer Science Student at Jamia Hamdard University
 💻 Aspiring Software Engineer
