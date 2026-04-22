@@ -1,7 +1,7 @@
 # Hi, I'm Ashhab Quddusi👋
 
 🎓 B.Tech Computer Science Student at Jamia Hamdard University
-💻 Aspiring Software Engineer
+💻 Software Engineer
 🚀 Interested in AI, Data Analysis & Web Development
 
 ## 🔧 Tech Stack
@@ -9,7 +9,7 @@
 * Python, JavaScript, SQL
 * Data Structures & OOP
 * HTML, CSS
-* Tools: Git, Pytest, Dash
+* Tools: Git, Pytest,  
 
 ## 📌 Projects
 
