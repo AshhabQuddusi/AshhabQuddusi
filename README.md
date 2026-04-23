@@ -5,7 +5,7 @@
 🚀 Interested in AI, Data Analysis & Web Development
 
 ## 🔧 Tech Stack
-
+ 
 * Python, JavaScript, SQL
 * Data Structures & OOP
 * HTML, CSS
