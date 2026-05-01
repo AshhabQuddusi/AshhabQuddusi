@@ -17,5 +17,5 @@
 
 ## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/ashhabquddusi
+* LinkedIn: linkedin.com/in/ashhab-quddusi
 * Email: ashhabquddusi4@gmail.com
